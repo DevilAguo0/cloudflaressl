@@ -26,7 +26,7 @@ Cloudflare SSL 证书管理工具是一个强大的 Bash 脚本集，用于自�
 
 1. 克隆仓库：
    ```
-   git clone https://github.com/yourusername/cloudflare-ssl.git
+   git clone https://github.com/yordyi/cloudflare-ssl.git
    ```
 
 2. 进入项目目录：
